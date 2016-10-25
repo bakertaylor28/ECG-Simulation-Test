@@ -1,0 +1,7 @@
+ECG SIMULATION TEST
+END-USER LICENSE AGREEMENT.
+
+This program is offered as freeware under the 
+GNU license terms. However, it may contain material
+that is copyrighted independently from it's use in
+this program.

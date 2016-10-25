@@ -1,0 +1,35 @@
+ECG Simulation test (WIN 32 bit)
+
+Overview:
+
+This program tests the user in idenfitying 27 common
+arrythmias. 25 test questions are regular questions,
+worth 4% of the total score, and 2 questions are extra-
+credit questions worth 2% of the total score. The 
+Arrthmias are presented as a six-second V2 lead static
+EcG strip.
+
+Interface:
+
+From the main screen you may choose to begin the test 
+by clicking the start button, The "about" button to view
+the program's credit and copyright information, or the 
+Exit button to exit the program. It is important to USE
+THE EXIT BUTTON PROViDED, as closing the window will
+only minimise the program as a background task, and you
+will have to kill the program using the taskmanager.
+
+The questions are presented as multiple-choice raido 
+buttons. click the correct radio button (A, B, or C)
+and then click next to proceed to the next question.
+After clicking next you will NOT have the option to 
+return to previous questions. You also will not be able
+to properly exit the program once the test has begun. 
+
+After the last question, you will be forwared to the 
+scoring screen. Click the Score button, and your score
+(as a per cent) will be displayed in a pop-up box. 
+click the New button to take the test again. Click exit
+to exit the program. 
+
+ 
